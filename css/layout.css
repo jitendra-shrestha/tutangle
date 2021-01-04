@@ -177,14 +177,14 @@
     background: lightpink;
     float: left;
     height: 50px;
-    width: 20%;
+    width: 55px;
 }
 
 .content-right-wrapper {
     background: maroon;
     height: 50px;
     float: right;
-    width: 80%;
+    width: 450px;
 }
 
 .body-rightbar-wrapper {

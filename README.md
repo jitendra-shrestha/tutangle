@@ -1,2 +1,2 @@
 # tutangle
-<a href="https://jitendra-shrestha.github.io/tutangle/"> preview</a>
+Tutangle <a href="https://jitendra-shrestha.github.io/tutangle/">preview</a> 

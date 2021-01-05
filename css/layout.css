@@ -3,164 +3,178 @@
 }
 
 .header-top-view-wrapper {
-    background: skyblue;
+    background: #7dd9e8;
 }
 
 .header-top {
-    background: skyblue;
     width: 940px;
-    height: 70px;
+    height: 85px;
 }
 
 .logo-searchbar-wrappper {
-    background: blueviolet;
     float: left;
-    height: 70px;
     width: 590px;
 }
 
 .logo-wrapper {
-    background: burlywood;
     float: left;
     width: 225px;
-    height: 70px;
+    padding-top: 21px;
 }
 
 .searchbar-wrapper {
-    background:cadetblue;
+    background:#7dd9e8;
     float: right;
-    height: 70px;
-    width: 365px;
+    width: 336px;
+    margin-top: 40px;
 }
 
 .username-navbar-wrapper {
-    background: skyblue;
     float: right;
-    height: 30px;
     width: 140px;
     padding: 20px 0px 0px 0px;
 }
 
 .username-wrapper {
-    background: blanchedalmond;
-    height: 25px;
     width: 140px;
 }
 
 .user-navbar-wrapper {
-    background: chartreuse;
-    height: 25px;
     width: 140px;
 }
 
 .header-bottom-view-wrapper {
-    background: gray;
+    background: #f5f5f5;
 }
 
 .header-bottom {
-    background: aqua;
     width: 940px;
-    height: 30px;
+    height: 40px;
 }
 
 .navbar-wrapper {
-    background: chocolate;
+    background: #f5f5f5;
     float: left;
-    width: 640px;
-    height: 30px;
+    width: 620px;
+    padding: 12px 0 12px 0;
 }
 
 .navbar-right-wrapper {
-    background: cornflowerblue;
     float: right;
-    width: 300px;
-    height: 30px;
+    width: 320px;
+    padding: 12px 0 12px 0;
 }
 
 .body-wrapper {
-    background: whitesmoke;
+    background: #ffffff;
 }
 
 .body-view-wrapper {
-    background: whitesmoke;
+    background: #ffffff;
     width: 940px;
     height: 475px;
     padding: 25px 0px 25px 0px;
 }
 
 .body-left-wrapper {
-    background: darkmagenta;
+    background: #f5f5f5;
     float: left;
     width: 195px;
     height: 475px;
 }
 
 .body-left-header-content-wrapper {
-    background: powderblue;
+
 }
 
 .body-left-header-wrapper {
-    background: mediumaquamarine;
-    height: 35px;
+    background: #2fc1da;
 }
 
 .body-left-content-wrapper {
-    background: navajowhite;
+    background: #f5f5f5;
+    padding: 10px 12px 5px 12px;
 }
 
 .left-content-wrapper {
-    background: orchid;
+    background: #f5f5f5;
     float: left;
     width: 80%;
-    height: 35px;
+    
 }
 
 .body-right-image-wrapper {
-    background: olive;
+    background: #f5f5f5;
     float: right;
-    width: 20%;
-    height: 35px;
+    width: 10%;
+    
 }
 
 .body-right-wrapper {
-    background: whitesmoke;
+    background: #ffffff;
     float: right;
     width: 718px;
     height: 475px;
 }
 
 .body-main-wrapper {
-    background: firebrick;
+    background: #ffffff;
     float: left;
     width: 520px;
-    height: 450px;
+    height: 475px;
 }
 
 .main-top-wrapper {
-    background: honeydew;
+    background: #ffffff;
     height: 50px;
     width: 100%;
 }
 
 .main-bottom-wrapper {
-    background: hotpink;
     height: 400px;
     width: 100%;
 }
 
 .body-navbar-wrapper {
-    background: indianred;
-    height: 100px;
+    background: #ffffff;
+    height: 66px;
+    text-align: center;
 }
 
 .body-header-wrapper {
-    background: lavender;
-    height: 50px;
+    background: #f5f5f5;
+    height: 66px;
+    width: 258px;
+    float: left; 
+}
+
+.header {
+    width:100%;
+    height: 33px;
+}
+
+.category {
+    width:100%;
+    height: 33px;
+    
+}
+
+.category-left-header {
+    float:left;
+    padding-left:10px;
+}
+
+.category-right-header {
+    float:right;
+    padding-right:10px;
 }
 
 .body-tabs-wrapper {
-    background: khaki;
-    height: 50px;
+    background: #f5f5f5;
+    height: 66px;
+    float: right;
+    width: 258px;
+    /* padding-top: 10px; */
 }
 
 .body-content-wrapper{
@@ -170,7 +184,7 @@
 }
 
 .content-wrapper {
-    background: lawngreen;
+    background: #ffffff;
     height: 315px;
     padding: 5px;
 }
@@ -190,29 +204,27 @@
 }
 
 .body-rightbar-wrapper {
-    background: fuchsia;
+    background: #f5f5f5;
     float: right;
     width: 178px;
     height: 475px;
 }
 
 .body-right-header-content-wrapper {
-    background: purple;
+    
 }
 
 .body-right-header-wrapper {
-    background: palegreen;
-    height: 35px;
+    background: #2fc1da;
 }
 
 .body-right-content-wrapper {
-    background: palevioletred;
-    height: 35px;
+    background: #f5f5f5;
+    padding: 10px 12px 5px 12px;
 }
 
 .right-content-wrapper {
-    background: plum;
-    height: 35px;
+    background: #f5f5f5;
 }
 
 .footer-wrapper {
@@ -239,3 +251,7 @@
     height: 30px;
     width: 80px;
 }
+
+
+
+

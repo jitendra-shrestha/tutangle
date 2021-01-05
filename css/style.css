@@ -5,3 +5,147 @@
 .username-wrapper {
     text-align: right;
 }
+
+.user-navbar li {
+    list-style: none;
+    display: inline;
+    font-size: 12.5px;
+}
+
+.navbar li {
+    list-style: none;
+    display: inline;
+    font-size: 15px;
+    padding-right: 18px;
+    padding-left: 12px;
+}
+
+.navbar-right li{
+    list-style: none;
+    display: inline;
+    font-size: 12px;
+     
+}
+.navbar-right span {
+    padding-right: 8px;
+    padding-left: 30px;
+}
+
+.body-left-header-wrapper {
+    color: #fffffd;
+    font-size: 19px;
+    padding: 15px 12px 15px 12px;
+}
+
+.left-content{
+    font-size: 12px;
+}
+
+.body-right-header-wrapper {
+    color: #fffffd;
+    font-size: 19px;
+    padding: 15px 12px 15px 12px;
+}
+.right-content{
+    font-size: 12px;
+}
+
+
+    /* Arranging buttons*/
+
+.category-left-header {
+    width: 114px;
+}
+.category-left-header a {
+    color:#ffffff;
+    display: block;
+    font-size: 13px;
+    height: 28px;
+    text-align: center;
+    line-height: 20px;
+    text-decoration: none;
+    padding-top: 5px;
+}
+
+.btn-l {
+    background: #dddddd url("../images/btn-tab-inactive-left.png") no-repeat top left;
+}
+
+.btn-r {
+    background:  url("../images/btn-tab-inactive-right.png") no-repeat top right;
+}
+
+.category-left-header.active .btn-l {
+    background: #2fc1da url("../images/btn-tab-active-left.png") no-repeat top left;
+}
+
+.category-left-header.active .btn-r {
+    background: url("../images/btn-tab-active-right.png") no-repeat top right;
+}
+
+.btn-lside {
+    background: #f5f5f5 url("../images/entries-left.png") no-repeat top left;
+    padding-top: 10px;
+}
+
+.btn-rside {
+    background: #f5f5f5 url("../images/entries-right.png") no-repeat top right;
+    padding-top: 10px;
+}
+
+.straight-line {
+    border-top: 2px solid #2fc1da;
+}
+
+.search-btn {
+    width: 254px;
+    float: left;
+    padding-right: 2px;
+    height: 20px;
+
+}
+.search {
+    margin-left: 7px;
+    width: 232px;
+    height: 21px;
+    border: none;
+}
+
+.search-btn .btn-left {
+    background: #2fc1da url("../images/search-left.png") no-repeat top left;
+}
+
+.search-btn .btn-right {
+    background: url("../images/cross-icon.png") no-repeat top right;
+}
+
+.search-icon {
+    float: left;
+}
+.search-image {
+    float: left;
+}
+
+.search-button {
+    width: 50px;
+    float: left;
+    padding-left: 7px;
+}
+.search-button a {
+    color: #ffffff;
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.button-left {
+    background: #284e57 url("../images/btn-search-left.png") no-repeat top left;
+}
+
+.button-right {
+    background:  url("../images/btn-search-right.png") no-repeat top right;
+}
+
+

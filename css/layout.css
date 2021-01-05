@@ -1,16 +1,14 @@
 .header-wrapper {
-    background: skyblue;
+    background: slateblue;
 }
 
-.header-view-wrapper {
-    background: red;
-    width: 940px;
-    height: 100px;
+.header-top-view-wrapper {
+    background: skyblue;
 }
 
 .header-top {
     background: skyblue;
-    width: 100%;
+    width: 940px;
     height: 70px;
 }
 
@@ -55,9 +53,13 @@
     width: 140px;
 }
 
+.header-bottom-view-wrapper {
+    background: gray;
+}
+
 .header-bottom {
     background: aqua;
-    width: 100%;
+    width: 940px;
     height: 30px;
 }
 

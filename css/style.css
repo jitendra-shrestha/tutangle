@@ -49,11 +49,11 @@
     list-style: none;
     display: inline-block;
     font-size: 12px;
+    padding-right: 30px;
      
 }
 .navbar-right span {
     padding-right: 8px;
-    padding-left: 30px;
 }
 
 .body-left-header-wrapper {
@@ -113,7 +113,7 @@
 
 .footer li {
     list-style: none;
-    display: inline;
+    display: inline-block;
     font-size: 13px;
     padding-right: 2px;
 }
